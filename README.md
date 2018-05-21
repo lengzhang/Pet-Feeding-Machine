@@ -1,4 +1,4 @@
-# Pet-Feeding-Machine
+# Pet-Feeding-Machine by Qiwen Lyu & Leng Zhang
 
 ## Qiwen Lyu
 Control Panel, Bluetooth, Water level sensor,Water Pump
